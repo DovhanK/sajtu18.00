@@ -26,7 +26,7 @@ header h1 {
     padding: 20px;
     max-width: 1000px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    
 }
 
 .book-left {
@@ -43,7 +43,7 @@ header h1 {
     width: 220px;
     height: auto;
     border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    
 }
 
 .book-right {
@@ -101,12 +101,6 @@ footer {
 .footer-section ul {
     list-style: none;
     padding: 0;
-}
-
-.footer-section a {
-    color: #fffacd;
-    text-decoration: none;
-    transition: color 0.3s;
 }
 
 
