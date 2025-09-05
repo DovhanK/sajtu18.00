@@ -47,7 +47,7 @@ article {
     width: 500px;
     padding: 20px;
     border-radius: 12px;
-    
+    box-shadow: 5px 5px 5px 0 #03a9f4;
     text-align: center;
 }
 
