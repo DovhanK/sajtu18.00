@@ -32,7 +32,9 @@ h1 {
     color: #03a9f4;
     
 }
-
+span{
+    background-color: orange;
+}
 .info {
     display: flex;
     flex-wrap: wrap;
