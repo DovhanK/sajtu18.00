@@ -8,9 +8,8 @@ body {
 header {
     background-image: url("https://i.ibb.co/4g2P36Jm/photo-2025-10-10-19-35-51.jpg");
     height: 200px;
-    width: 105%;
+    width: 100%;
     margin-top: -21px;
-    margin-left: -20px;
 }
 
 header h1 {
