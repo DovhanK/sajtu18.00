@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(105, 104, 104);
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+header {
+    background-image: url("https://i.ibb.co/4g2P36Jm/photo-2025-10-10-19-35-51.jpg");
+    height: 200px;
+    width: 105%;
+    margin-top: -21px;
+    margin-left: -20px;
+}
+
+header h1 {
+    border: 5px outset rgb(130, 130, 130);
+    width: 115px;
+    background-color: rgb(119, 119, 119);
+    padding: 5px;
+
+}
